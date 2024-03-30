@@ -27,7 +27,7 @@ how many solves did they have to do before achieving a sub-5 second solve?
 2. For one of the top 10 speedcubers make a plot of their solve times vs. the date of the solve, with date
 on the x-axis and solve time on the y-axis.
 
-### Up-and-Coming Speed Cubers
+#### Up-and-Coming Speed Cubers
 Come up with a list of five speedcubers (provide their names and WCA IDs) that you have identified as “up-and-coming”.
 
 #### Additional questions:
