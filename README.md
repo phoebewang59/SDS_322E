@@ -1,2 +1,3 @@
-# SDS_322E
-Elements of Data Science. Includes projects done in this course.
+# Elements of Data Science
+
+## Project 1
