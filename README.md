@@ -6,4 +6,4 @@ Programming language: R
 
 The file is called "Project 1 Report"
 
-Joins, tidy, and manipulate multiple datasets to draw conclusions on the WCA 3x3x3 speedcubing event. 
+Join, tidy, and manipulate multiple datasets to draw conclusions on the WCA 3x3x3 speedcubing event. 
