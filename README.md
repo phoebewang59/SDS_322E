@@ -24,7 +24,7 @@ Join, tidy, and manipulate multiple datasets to draw conclusions on the WCA 3x3x
 how many solves did they have to do before achieving a sub-5 second solve?
 2. For one of the top 10 speedcubers make a plot of their solve times vs. the date of the solve
 
-[Max Park's Solve Times vs. Date of the Solve](SolveTimes vs.Date.png)
+![Max Park's Solve Times vs. Date of the Solve](SolveTimes_vs_Date.png)
 
 #### Up-and-Coming Speed Cubers
 Come up with a list of five speedcubers (provide their names and WCA IDs) that you have identified as “up-and-coming”.
