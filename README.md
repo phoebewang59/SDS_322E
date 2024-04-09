@@ -23,6 +23,7 @@ Join, tidy, and manipulate multiple datasets to draw conclusions on the WCA 3x3x
 1. For the current top 10 speedcubers in the world (as recorded in the RanksSingle table), on average,
 how many solves did they have to do before achieving a sub-5 second solve?
 2. For one of the top 10 speedcubers make a plot of their solve times vs. the date of the solve
+
 ![Max Park's Solve Times vs. Date of the Solve](SolveTimes vs.Date.png)
 
 #### Up-and-Coming Speed Cubers
